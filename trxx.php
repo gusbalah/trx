@@ -1,5 +1,5 @@
 <?php
-$reff = "reff nte";
+$reff = "https://e.trx-trading.com/m/reg.php?t=QTRX1775324";
 
 while(true){
     for($i = 0; $i <2; $i++){
